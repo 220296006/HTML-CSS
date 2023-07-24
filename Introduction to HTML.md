@@ -78,4 +78,10 @@ The list tag lists elements in oder.
 
 ## HTML Quotes
 
-## 
+### Block Quotes
+
+<blockquote>
+<p>"I am what I think I am"</p>
+<cite>-- Thabiso Matsaba</cite>
+</blockquote>
+
