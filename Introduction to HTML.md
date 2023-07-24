@@ -12,7 +12,7 @@ HTML has a straightforward structure without any programming logic, loops, or fu
 
 Is an HTML tag used to input text as paragraphs with empasized text emphasized tage inside the paragraph tag.
 
-### <p> This is <em> emphasized text! </em> </p> 
+ <p> This is <em> emphasized text! </em> </p> 
 
 ### Article Tag
 
@@ -78,4 +78,6 @@ The list tag lists elements in oder.
 
 </ul>
 
-### 
+## HTML Quotes
+
+## 
