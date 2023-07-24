@@ -57,12 +57,10 @@ The list tag lists elements in oder.
 <h5>Superheroes</h5>
 
 <ol>
-
 <li>Iron Man</li>
 <li>Thor</li>
 <li>Superman</li>
 <li>Flash</li>
-
 </ol>
 
 ### Unordered Lists
