@@ -36,4 +36,11 @@ RIA roles provide semantic meaning to content, allowing screen readers and other
 HTML Formatting is a process of formatting text for better look and feel. HTML provides us ability to format text without using CSS. There are many formatting tags in HTML. These tags are used to make text bold, italicized, or underlined.
 
 <p><b>This text is bold</b></p>
+
 <p><i>This text is italic</i></p>
+
+<p>This is some normal text.</p>
+
+<p><small>This is some smaller text.</small></p>
+
+
