@@ -31,7 +31,7 @@ The italic tag italicises the name in the sentence.
 
 <p>My name is <i>Thabiso</i></p>
 
-The b tag makes the surname bold.
+The bold tag makes the surname bold.
 
 <p>My name is <i>Thabiso</i> <b>Matsaba</b></p>
 
@@ -84,4 +84,6 @@ The list tag lists elements in oder.
 <p>"I am what I think I am"</p>
 <cite>-- Thabiso Matsaba</cite>
 </blockquote>
+
+
 
