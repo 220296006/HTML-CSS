@@ -42,3 +42,9 @@ Embedding refers to taking content from one site and placing it within the middl
 There is a wide range of content that can be embedded on a page. For instance, a map from Google or Mapbox, a code demo from CodePen or Glitch, or even a slide deck from Speaker Deck or Notist. It is common practice to embed complex content from a service that handles the technical aspects. Instead of figuring out how to build a mapping service, a slide deck system, a code demo platform, or an adaptive bitrate server, you can rely on someone else's toolkit to handle all of that. Simply embed the results onto a website. So, what HTML knowledge do we need to facilitate this process?
 
 
+
+<h2>HTML Iframes</h2>
+<p>You can use the height and width attributes to specify the size of the iframe:</p>
+
+<iframe src="demo_iframe.htm" height="200" width="300" title="Iframe Example"></iframe>
+
