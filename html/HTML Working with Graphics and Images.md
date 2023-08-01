@@ -35,7 +35,7 @@ Images can improve the design and the appearance of a web page.
 
 <tr>
 <td>JPEG</td>
-<td>Joint Photographic Expert Group i</td>
+<td>Joint Photographic Expert Group image</td>
 <td>.jpg, .jpeg, .jfif, .pjpeg, .pjp</td>
 </tr>
 
@@ -51,4 +51,11 @@ Images can improve the design and the appearance of a web page.
 <td>.svg</td>
 </tr>
 </table>
+
+## Responsive Images
+
+You can use the style attribute to specify the width and height of an image.
+
+<img src="C:/Users/Thabiso.Matsaba/Downloads/pic_trulli.jpg" alt="Italian Trulli" style="width: 500px, height: 600px">
+
 
