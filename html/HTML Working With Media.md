@@ -46,5 +46,5 @@ There is a wide range of content that can be embedded on a page. For instance, a
 <h2>HTML Iframes</h2>
 <p>You can use the height and width attributes to specify the size of the iframe:</p>
 
-<iframe src="demo_iframe.htm" height="200" width="300" title="Iframe Example"></iframe>
+<iframe src="demo_iframe.htm" height="200" width="300" text ="I am an iframe" title="Iframe Example"></iframe>
 
