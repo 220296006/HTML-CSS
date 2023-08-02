@@ -56,6 +56,6 @@ Images can improve the design and the appearance of a web page.
 
 You can use the style attribute to specify the width and height of an image.
 
-<img src="C:/Users/Thabiso.Matsaba/Downloads/pic_trulli.jpg" alt="Italian Trulli" style="width: 500px, height: 600px">
+<img src="pic_trulli.jpg" alt="Italian Trulli" style="width: 500px, height: 600px">
 
 
