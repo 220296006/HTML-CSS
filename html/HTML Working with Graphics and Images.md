@@ -3,7 +3,7 @@
 
 Images can improve the design and the appearance of a web page.
 
-<img src="C:/Users/Thabiso.Matsaba/Downloads/pic_trulli.jpg" alt="Italian Trulli">
+<img src="pic_trulli.jpg" alt="Italian Trulli">
 
 
 ## Image Formats
